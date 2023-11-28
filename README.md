@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/AzeezBT/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/150319523/ca75555b-4a82-4c13-8b8c-9420555e32f9)
 
-### Name:
-### Register Number:
+### Name: Shaik Azeez Ahamad
+### Register Number: 23003977
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
